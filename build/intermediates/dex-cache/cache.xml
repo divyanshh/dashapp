@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_186ecfdec5ca12d2e1d0bed44f2ad18122b518e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_b552000c4567e7d3890779d4383116f1358fafbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_730207f17dee24b9dd898b586f87800a60dea96c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8482bee7fa6a401022bf5935752a26bddac0dfe5">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1d5bd7bab29a46c6c6709cf68896427a1115849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_dc0a0f192f9eee1d4c402caf621b1302fd05ec77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_26ca9dcf176a036382a2680fab4e0ede9029d33a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f2bf2bb7697db585d807dd557e75254bf3a341ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_22f79ec38bff2000655f5d5c0eb4a3d61a7a40d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_dc042e54d9157875c076b1b87b0c6c2d732b79eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1ba900e2c9581bf7978fd9121cdd264bac644800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_0627d14438acb9bd29a16225515137a6cd79e297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b49447193b1338a70975a3614c3b6fbed26f7d3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_5a0586b048d11440d8464e50c4fc18c986d24fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_7acdc169611c543ebd8d9ec86e68216935af9ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d859c7c66e0a2801c948893127de8efb877f8e51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_1942f744fd36309161907f46a851c6fdbaac435c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7d520709a89540c5d44065917704efd8716a84f1">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_391ff9a716cff44fa811d86d58367af0274f5d05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_83e0e35a82836b6e4c4f129447590d0c58864cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_55bbbab62ddceac2686ecdbb144538eb11484748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.20.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.20.0_440172c09008440034de5a9ee031358322d140ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_871e02c755e7ec9c5789df9a22b299f537881e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_b3f06dc7a06527f64da042cca0e626506ad25bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_836433e749bd52fe02d392b6e267e67964d2ce10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_ab65b84f544eb520b19910063f3092399f3ca192/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_c6cc728542d8fc4161f3018d89adf652f47bc19e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0fbf41f5054684e0b74c96c9444a631bd49dba9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_f139b71040e8a3875e63bac00605a0853a80153b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_de5715d41892606bee6bd702e33f7c2aaa646641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_39d4eb7a8d88d417bbf3bd4404825e7dc6a09b56/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="30746804044797"
+    token="163088327988129984"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3526" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="410" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="30746804044797"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

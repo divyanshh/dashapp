@@ -1,0 +1,7 @@
+#Tue Apr 04 11:55:46 IST 2017
+base.0=/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1d5bd7bab29a46c6c6709cf68896427a1115849
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_391ff9a716cff44fa811d86d58367af0274f5d05/classes.dex
+base.1=/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_391ff9a716cff44fa811d86d58367af0274f5d05
+file.0=/Users/divyanshjain/Desktop/WORK/Dashapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1d5bd7bab29a46c6c6709cf68896427a1115849/classes.dex
